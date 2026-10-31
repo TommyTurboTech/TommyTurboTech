@@ -1,7 +1,7 @@
 # Thomas Hurd
 
-Electrical engineer with an MBA. I build and run AI agent systems, and by day I am a
-firmware architect on airborne networking hardware.
+Electrical engineer with an MBA. I build and run AI agent systems, and by day I am one of
+the firmware architects on an airborne networking design.
 
 Most of my code is private, because it runs my own finances, email and business.
 The work itself is live, through my company [AuraLogic Inc.](https://auralogicinc.com):
@@ -9,13 +9,12 @@ The work itself is live, through my company [AuraLogic Inc.](https://auralogicin
 - **[dance-directory.com](https://dance-directory.com)**: a public directory of Latin dance
   events in New York and Long Island. An LLM pipeline extracts and reviews listings, and an
   agent clears the review queue every night.
-- **[MealConductor](https://mealconductor.com)**: AI meal planning for restricted diets.
+- **[MealConductor](https://mealconductor.com)**: AI meal planning for restricted diets, now entering beta.
   Deterministic allergen screening checks every generated stage and can veto it, so the
   model never grades its own output.
-- **[OssaCo](https://ossaco.app)**: an AI voice receptionist for home-services businesses,
-  built and in production ahead of its first customers.
-- **A multi-agent platform** that runs my personal life and my business: eight agents,
-  80+ tools and about 40 scheduled jobs. Its safety rules are enforced in code, and
+- **[OssaCo](https://ossaco.app)**: an AI voice receptionist for home services businesses,
+  ready for its first clients.
+- **A multi-agent platform** that runs my personal life and my business. Its safety rules are enforced in code, and
   deterministic checks decide whether a goal was met.
 
 I build by directing AI coding agents through pull requests that the test suite gates.
